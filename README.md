@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kathrine366
+- 👋 Hi, I’m @ZainabAnsari
 - 👀 I’m interested in learning artificial intelligence .
 - 🌱 I’m currently learning computer science.
 - 💞️ I’m looking to collaborate on my computing skills .
